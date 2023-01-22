@@ -1,0 +1,44 @@
+.container {
+  background-color: rgb(161, 157, 157);
+}
+
+.div {
+  width: 100vw;
+  background-color: rgb(161, 157, 157);
+}
+.btn {
+  background-color: rgb(161, 157, 157);
+}
+
+.divheader {
+    padding: 45px;
+    background-color: gray;
+  }
+  .img {
+    width: 5%;
+    text-align: center;
+  }
+  
+  .button {
+    background-color: transparent;
+    color: white;
+    border-color: aqua;
+    text-align: center;
+  }
+  
+  .h2 {
+    text-align: center;
+  }
+  .para {
+    text-align: center;
+  }
+  .button1 {
+    display: flex;
+    padding: 15px;
+    background-color:lightblue;
+    border: none;
+    border-radius: 7px;
+    margin: auto;
+    cursor: pointer;
+    text-align: left;
+  }

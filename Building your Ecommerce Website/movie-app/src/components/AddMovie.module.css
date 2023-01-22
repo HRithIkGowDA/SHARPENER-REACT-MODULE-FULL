@@ -1,0 +1,39 @@
+form {
+  margin: 1rem auto;
+  width: 90%;
+  max-width: 40rem;
+  text-align: center;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: left;
+}
+
+label {
+  display: block;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  margin-bottom: 20px;
+  overflow: visible;
+  overflow-x: auto;
+}
+
+.openingText {
+  height: 120px;
+  width: 100%;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+
+.form div {
+    text-align: center;
+}

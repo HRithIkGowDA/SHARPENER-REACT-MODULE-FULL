@@ -1,0 +1,8 @@
+.centered {
+    margin: 100px;
+    
+    
+    font-size: calc(10px + 2vmin);
+    width: 400px;
+    
+  }

@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.editWrapper { 
+  
+  
+  margin: .5rem;
+  display: flex; flex-direction: column; }
+.editEditor { order: 1;
+
+ }
+.editToolbar { order: 2; margin-top: 100px;}
+
+
+
+
+
+
+
+
+
+

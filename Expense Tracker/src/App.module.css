@@ -1,0 +1,10 @@
+.AppDark {
+    background-color: #121212;
+    color: white;
+    min-height: 100vh;
+  }
+  
+  .AppLight {
+    background-color: rgb(235, 254, 230);
+    min-height: 100vh;
+  }

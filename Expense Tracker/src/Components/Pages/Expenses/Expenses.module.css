@@ -1,0 +1,16 @@
+.AddButton {
+    background-color: rgb(47, 0, 255);
+    border-color: transparent;
+    border-radius: 0.5rem;
+    font-size: 3rem;
+    margin-right: 3rem;
+    width: 9%;
+    color: aliceblue;
+    float: right;
+    position: relative;
+  }
+  
+  .AddButton button:hover,
+  button.hover {
+    background-color: rgb(171, 102, 11);
+  }

@@ -1,0 +1,59 @@
+.form {
+  margin: auto;
+  margin-top: 50px;
+  width: 500px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: 0 0 10px black;
+}
+
+.formHead {
+  margin: 0 0 10px 0;
+}
+
+.formHead button {
+  float: right;
+  border-color: red;
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  color: red;
+}
+
+.formHead span {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.formBody {
+  margin: 20px 20px 0 20px;
+}
+
+.formBody label {
+  font-size: 18px;
+  font-weight: 3px;
+}
+
+.formBody input {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.formBody .button {
+  text-align: center;
+}
+
+.formBody button {
+  margin-top: 20px;
+  padding: 5px 20px 5px 20px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  font-size: 18px;
+  color: white;
+  background-color: #89764a;
+  border: none;
+}

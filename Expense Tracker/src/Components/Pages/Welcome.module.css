@@ -1,0 +1,22 @@
+.section {
+    border-bottom: 2px solid black;
+    display: flex;
+}
+
+.title {
+    font-style: italic;
+    font-size: large;
+}
+
+.status {
+    padding-left: 950px;
+    font-style: italic;
+    font-size: small;
+}
+
+.button {
+    color: blue;
+    border: none;
+    font-style: italic;
+    background-color: white;
+}

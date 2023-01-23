@@ -1,0 +1,13 @@
+.Header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+    color: azure;
+  }
+
+  .Links Link {
+    padding: 5px;
+    margin: 3px;
+    text-decoration: none;
+  }

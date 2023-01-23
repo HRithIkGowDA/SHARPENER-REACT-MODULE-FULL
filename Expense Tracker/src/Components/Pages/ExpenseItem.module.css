@@ -1,0 +1,32 @@
+.ExpenseItem {
+    width: 70%;
+    height: 25rem;
+    margin: 1rem auto;
+    overflow-y: scroll;
+  }
+  
+  .ExpenseItem h2 {
+    text-align: left;
+    margin-right: 3rem;
+  }
+  
+  .ExpenseItem header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  
+  .ExpenseItem li {
+    list-style: none;
+  }
+  
+  .ExpenseItem div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .ExpenseItem button:hover,
+  button.hover {
+    background-color: rgb(171, 102, 11);
+  }

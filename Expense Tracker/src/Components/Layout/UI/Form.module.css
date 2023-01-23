@@ -1,0 +1,65 @@
+.Form {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: auto auto;
+  width: 95%;
+  max-width: 25rem;
+  border-radius: 6px;
+  padding: 1rem;
+  text-align: center;
+  position: relative;
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 25rem;
+  flex-direction: column;
+  color: #a66cff;
+}
+
+.Form div {
+  display: flex;
+  flex-direction: column;
+}
+
+.Form h3 {
+  font-size: 2rem;
+}
+
+.Form input {
+  margin: 4%;
+  font-size: 1.2rem;
+}
+
+.Form button {
+  display: inline-block;
+  border-radius: 2px;
+  border-radius: 1rem;
+}
+
+.Form a {
+  color: hsl(34deg 100% 50%);
+  text-decoration: none;
+  font-size: larger;
+  padding: 1rem;
+}
+
+.Form input:hover,
+input.hover {
+  border-color: hsl(34deg 100% 50%);
+}
+
+.form input:active,
+input.active {
+  border-color: hsl(34deg 100% 50%);
+}
+
+.Form button:hover,
+button.hover {
+  background-color: rgb(171, 102, 11);
+}
+
+.Form a:hover,
+a.hover {
+  color: rgb(171, 102, 11);
+}

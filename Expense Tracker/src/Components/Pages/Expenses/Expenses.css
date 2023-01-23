@@ -1,0 +1,10 @@
+.Expenses {
+  background-color: aliceblue;
+}
+.Expenses_Dark {
+  background-color: #2c3333;
+  color: white;
+}
+h2{
+    text-align: center;
+}

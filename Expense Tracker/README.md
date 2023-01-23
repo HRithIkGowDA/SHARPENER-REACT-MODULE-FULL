@@ -1,3 +1,5 @@
-# ExpenseTracker2.0
+# ExpenseTracker
 
-https://expensetracker-f79f1.web.app/
+https://expense-tracker-8a6c9.web.app/
+
+
